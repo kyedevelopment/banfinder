@@ -1,0 +1,472 @@
+{
+ "coverage": "77/77",
+ "missing": [],
+ "operators": {
+  "Ace": {
+   "heroname": 255200030683,
+   "roleimage": 104189664325,
+   "roleportrait": 104189664403
+  },
+  "Alibi": {
+   "heroname": 99407349245,
+   "roleimage": 121604587892,
+   "roleportrait": 104189662084
+  },
+  "Amaru": {
+   "heroname": 210322745556,
+   "roleimage": 104189663542,
+   "roleportrait": 104189663516
+  },
+  "Aruni": {
+   "heroname": 282357287306,
+   "roleimage": 104189664639,
+   "roleportrait": 104189664665
+  },
+  "Ash": {
+   "heroname": 423855921,
+   "roleimage": 1494825842,
+   "roleportrait": 27880706723
+  },
+  "Azami": {
+   "heroname": 373332356036,
+   "roleimage": 375628889901,
+   "roleportrait": 378305072064
+  },
+  "Bandit": {
+   "heroname": 350237879,
+   "roleimage": 1326495671,
+   "roleportrait": 27880706734
+  },
+  "Blackbeard": {
+   "heroname": 9147189099,
+   "roleimage": 32822532293,
+   "roleportrait": 27880747285
+  },
+  "Blitz": {
+   "heroname": 350237867,
+   "roleimage": 2461366787,
+   "roleportrait": 27880706745
+  },
+  "Brava": {
+   "heroname": 392233463630,
+   "roleimage": 288200866784,
+   "roleportrait": 288200866808
+  },
+  "Buck": {
+   "heroname": 9147168279,
+   "roleimage": 32822532297,
+   "roleportrait": 27880839652
+  },
+  "Capitao": {
+   "heroname": null,
+   "roleimage": 34075810144,
+   "roleportrait": null
+  },
+  "Castle": {
+   "heroname": 423855917,
+   "roleimage": 1494825824,
+   "roleportrait": 27880706756
+  },
+  "Caveira": {
+   "heroname": null,
+   "roleimage": 34075810132,
+   "roleportrait": null
+  },
+  "Clash": {
+   "heroname": 123464834988,
+   "roleimage": 104189662215,
+   "roleportrait": 104189662241
+  },
+  "Deimos": {
+   "heroname": 402828612923,
+   "roleimage": 374667786331,
+   "roleportrait": 374667786359
+  },
+  "Denari": {
+   "heroname": null,
+   "roleimage": 374667787928,
+   "roleportrait": null
+  },
+  "Doc": {
+   "heroname": 350237835,
+   "roleimage": 2461366796,
+   "roleportrait": 27880706765
+  },
+  "Dokkaebi": {
+   "heroname": 38576461047,
+   "roleimage": 445433447900,
+   "roleportrait": 39149215649
+  },
+  "Echo": {
+   "heroname": null,
+   "roleimage": 39149215373,
+   "roleportrait": null
+  },
+  "Ela": {
+   "heroname": 38576460310,
+   "roleimage": 39149215589,
+   "roleportrait": 39149215613
+  },
+  "Fenrir": {
+   "heroname": 393596485554,
+   "roleimage": 288200867302,
+   "roleportrait": 288200867326
+  },
+  "Finka": {
+   "heroname": 45400261188,
+   "roleimage": 104189661900,
+   "roleportrait": 104189661978
+  },
+  "Flores": {
+   "heroname": 319577318680,
+   "roleimage": 328397386995,
+   "roleportrait": 328397386983
+  },
+  "Frost": {
+   "heroname": null,
+   "roleimage": 32822532301,
+   "roleportrait": null
+  },
+  "Fuze": {
+   "heroname": 423855889,
+   "roleimage": 1326495659,
+   "roleportrait": 27880706776
+  },
+  "Glaz": {
+   "heroname": 423855885,
+   "roleimage": 2461366781,
+   "roleportrait": 27880706788
+  },
+  "Goyo": {
+   "heroname": 204128720932,
+   "roleimage": 104189663633,
+   "roleportrait": 104189663659
+  },
+  "Gridlock": {
+   "heroname": 161356251753,
+   "roleimage": 183220539159,
+   "roleportrait": 174977498146
+  },
+  "Grim": {
+   "heroname": 385049521818,
+   "roleimage": 374667788033,
+   "roleportrait": 374667788040
+  },
+  "Hibana": {
+   "heroname": 38576454334,
+   "roleimage": 39149215337,
+   "roleportrait": 39149215361
+  },
+  "Iana": {
+   "heroname": 243632621712,
+   "roleimage": 104189663973,
+   "roleportrait": 104189664051
+  },
+  "Iq": {
+   "heroname": 350237871,
+   "roleimage": 1326495643,
+   "roleportrait": 27880706800
+  },
+  "Jackal": {
+   "heroname": 38576458274,
+   "roleimage": 39149215409,
+   "roleportrait": 39149215433
+  },
+  "Jager": {
+   "heroname": null,
+   "roleimage": 1326495639,
+   "roleportrait": null
+  },
+  "Kaid": {
+   "heroname": 153816116120,
+   "roleimage": 161289666176,
+   "roleportrait": 161289666206
+  },
+  "Kali": {
+   "heroname": null,
+   "roleimage": 104189663842,
+   "roleportrait": null
+  },
+  "Kapkan": {
+   "heroname": null,
+   "roleimage": 1326495635,
+   "roleportrait": null
+  },
+  "Lesion": {
+   "heroname": 38576459494,
+   "roleimage": 39149215517,
+   "roleportrait": 39149215541
+  },
+  "Lion": {
+   "heroname": 42095194202,
+   "roleimage": 104189661796,
+   "roleportrait": 104189661822
+  },
+  "Maestro": {
+   "heroname": 42095194492,
+   "roleimage": 104189662110,
+   "roleportrait": 104189662136
+  },
+  "Maverick": {
+   "heroname": 123464835182,
+   "roleimage": 104189662319,
+   "roleportrait": 104189662397
+  },
+  "Melusi": {
+   "heroname": 255200031607,
+   "roleimage": 104189664208,
+   "roleportrait": 104189664234
+  },
+  "Mira": {
+   "heroname": 38576458766,
+   "roleimage": 39149215445,
+   "roleportrait": 39149215469
+  },
+  "Montagne": {
+   "heroname": 350237847,
+   "roleimage": 1326495663,
+   "roleportrait": 27880706833
+  },
+  "Mozzie": {
+   "heroname": 161356251582,
+   "roleimage": 183220539138,
+   "roleportrait": 174977498152
+  },
+  "Mute": {
+   "heroname": 423855857,
+   "roleimage": 1494825830,
+   "roleportrait": 27880706844
+  },
+  "Nokk": {
+   "heroname": null,
+   "roleimage": 104189662959,
+   "roleportrait": null
+  },
+  "Nomad": {
+   "heroname": 153816115804,
+   "roleimage": 161289666188,
+   "roleportrait": 161289666212
+  },
+  "Oryx": {
+   "heroname": null,
+   "roleimage": 104189664090,
+   "roleportrait": null
+  },
+  "Osa": {
+   "heroname": 365494629976,
+   "roleimage": 288200867407,
+   "roleportrait": 288200867431
+  },
+  "Pulse": {
+   "heroname": 423855925,
+   "roleimage": 2461366790,
+   "roleportrait": 27880706855
+  },
+  "Ram": {
+   "heroname": 397807530726,
+   "roleimage": 395943091159,
+   "roleportrait": 395943091067
+  },
+  "Rauora": {
+   "heroname": 413521658217,
+   "roleimage": 386098331848,
+   "roleportrait": 386098331878
+  },
+  "Rook": {
+   "heroname": null,
+   "roleimage": 1494825836,
+   "roleportrait": null
+  },
+  "Sens": {
+   "heroname": 376357903361,
+   "roleimage": 385641314448,
+   "roleportrait": 384797789368
+  },
+  "Sentry": {
+   "side": "DEF",
+   "heroname": 385292995799,
+   "roleimage": 409899350066,
+   "roleportrait": 409899350358
+  },
+  "Skopos": {
+   "heroname": null,
+   "roleimage": 386098331638,
+   "roleportrait": null
+  },
+  "Sledge": {
+   "heroname": 423855861,
+   "roleimage": 2461366799,
+   "roleportrait": 27880706888
+  },
+  "Smoke": {
+   "heroname": 423855853,
+   "roleimage": 1494825833,
+   "roleportrait": 27880743670
+  },
+  "Solid Snake": {
+   "heroname": 433090053438,
+   "roleimage": 438345383457,
+   "roleportrait": 433090053400
+  },
+  "Solis": {
+   "heroname": 387456821475,
+   "roleimage": 390305247296,
+   "roleportrait": 374667788145
+  },
+  "Striker": {
+   "side": "ATK",
+   "heroname": 423855913,
+   "roleimage": 409899350111,
+   "roleportrait": 409899350418
+  },
+  "Tachanka": {
+   "heroname": 284654372768,
+   "roleimage": 291437347566,
+   "roleportrait": 291437347636
+  },
+  "Thatcher": {
+   "heroname": 423855865,
+   "roleimage": 428908289116,
+   "roleportrait": 27880706910
+  },
+  "Thermite": {
+   "heroname": 423855929,
+   "roleimage": 1494825845,
+   "roleportrait": 27880706920
+  },
+  "Thorn": {
+   "heroname": 360069612214,
+   "roleimage": 371820933516,
+   "roleportrait": 288200867539
+  },
+  "Thunderbird": {
+   "heroname": 357187762301,
+   "roleimage": 288200867313,
+   "roleportrait": 362035202835
+  },
+  "Tubarao": {
+   "heroname": null,
+   "roleimage": 288200867512,
+   "roleportrait": null
+  },
+  "Twitch": {
+   "heroname": 350237843,
+   "roleimage": 1326495647,
+   "roleportrait": 27880706932
+  },
+  "Valkyrie": {
+   "heroname": 9147189187,
+   "roleimage": 32822532305,
+   "roleportrait": 27880747293
+  },
+  "Vigil": {
+   "heroname": 38576461081,
+   "roleimage": 39149215661,
+   "roleportrait": 39149215685
+  },
+  "Wamai": {
+   "heroname": 222844205628,
+   "roleimage": 104189663738,
+   "roleportrait": 104189663764
+  },
+  "Warden": {
+   "heroname": 189095391481,
+   "roleimage": 104189662842,
+   "roleportrait": 104189662868
+  },
+  "Ying": {
+   "heroname": 38576459461,
+   "roleimage": 39149215481,
+   "roleportrait": 39149215505
+  },
+  "Zero": {
+   "heroname": null,
+   "roleimage": 291191151539,
+   "roleportrait": null
+  },
+  "Zofia": {
+   "heroname": 38576460276,
+   "roleimage": 39149215553,
+   "roleportrait": 39149215577
+  }
+ },
+ "roleimage_to_op": {
+  "1326495635": "Kapkan",
+  "1326495639": "Jager",
+  "1326495643": "Iq",
+  "1326495647": "Twitch",
+  "1326495659": "Fuze",
+  "1326495663": "Montagne",
+  "1326495671": "Bandit",
+  "1494825824": "Castle",
+  "1494825830": "Mute",
+  "1494825833": "Smoke",
+  "1494825836": "Rook",
+  "1494825842": "Ash",
+  "1494825845": "Thermite",
+  "2461366781": "Glaz",
+  "2461366787": "Blitz",
+  "2461366790": "Pulse",
+  "2461366796": "Doc",
+  "2461366799": "Sledge",
+  "32822532293": "Blackbeard",
+  "32822532297": "Buck",
+  "32822532301": "Frost",
+  "32822532305": "Valkyrie",
+  "34075810132": "Caveira",
+  "34075810144": "Capitao",
+  "39149215337": "Hibana",
+  "39149215373": "Echo",
+  "39149215409": "Jackal",
+  "39149215445": "Mira",
+  "39149215481": "Ying",
+  "39149215517": "Lesion",
+  "39149215553": "Zofia",
+  "39149215589": "Ela",
+  "39149215661": "Vigil",
+  "104189661796": "Lion",
+  "104189661900": "Finka",
+  "104189662110": "Maestro",
+  "104189662215": "Clash",
+  "104189662319": "Maverick",
+  "104189662842": "Warden",
+  "104189662959": "Nokk",
+  "104189663542": "Amaru",
+  "104189663633": "Goyo",
+  "104189663738": "Wamai",
+  "104189663842": "Kali",
+  "104189663973": "Iana",
+  "104189664090": "Oryx",
+  "104189664208": "Melusi",
+  "104189664325": "Ace",
+  "104189664639": "Aruni",
+  "121604587892": "Alibi",
+  "161289666176": "Kaid",
+  "161289666188": "Nomad",
+  "183220539138": "Mozzie",
+  "183220539159": "Gridlock",
+  "288200866784": "Brava",
+  "288200867302": "Fenrir",
+  "288200867313": "Thunderbird",
+  "288200867407": "Osa",
+  "288200867512": "Tubarao",
+  "291191151539": "Zero",
+  "291437347566": "Tachanka",
+  "328397386995": "Flores",
+  "371820933516": "Thorn",
+  "374667786331": "Deimos",
+  "374667787928": "Denari",
+  "374667788033": "Grim",
+  "375628889901": "Azami",
+  "385641314448": "Sens",
+  "386098331638": "Skopos",
+  "386098331848": "Rauora",
+  "390305247296": "Solis",
+  "395943091159": "Ram",
+  "409899350066": "Sentry",
+  "409899350111": "Striker",
+  "428908289116": "Thatcher",
+  "438345383457": "Solid Snake",
+  "445433447900": "Dokkaebi"
+ }
+}
